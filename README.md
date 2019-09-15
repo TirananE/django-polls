@@ -13,4 +13,3 @@ These polls have 2 question.
 - PART 5 : Automated testing
 
 create by Tiranan Emson
-Sofeware and Knowledge Engineering
