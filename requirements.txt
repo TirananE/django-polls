@@ -1,2 +1,2 @@
-# this is a comment line
- Django >= 2.1.2
+Python 3.6 or newer
+Django 2.1.2 or newer
