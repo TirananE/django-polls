@@ -22,8 +22,12 @@
 
 
 1. Clone repository at link : https://github.com/TirananE/django-polls
-2. Change directory in terminal from django-polls to mysite: $ cd mysite
-3. Run server in terminal enter: $ python3 manage.py runserver
+2. Change directory in terminal from django-polls to mysite: 
+
+        $ cd mysite
+3. Run server in terminal enter: 
+
+        $ python3 manage.py runserver
 
     Now, We see server at http://127.0.0.1:8000/
 
